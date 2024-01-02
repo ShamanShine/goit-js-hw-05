@@ -4,6 +4,7 @@ const getTotalBalanceByGender = (users, gender) => {
     // фильтруем из массива обьектов то , что нам нужно. яб ещё изменил второй параметр gender, чтоб не путаться в коде
     .reduce((totalBalance, user) => totalBalance + user.balance, 0);
   // назначаем аккумулятор и начальную точку от чего стартовать и сумировать после каждого прохода 
+  // используем цепочки методов
 };
 
 const allUsers = [
