@@ -1,3 +1,3 @@
-# goit-js-hw-04
+# goit-js-hw-05
 
-JS. Topic: #4
+JS. Topic: #5
