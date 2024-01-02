@@ -3,7 +3,7 @@ const getUserNames = (users) => {
   // применяем метод MAP() чтоб создать новый массив из имён 
 };
 
-console.log(
+console.table(
   getUserNames([
     {
       name: "Moore Hensley",
@@ -42,3 +42,5 @@ console.log(
     },
   ])
 ); // ["Moore Hensley", "Sharlene Bush", "Ross Vazquez", "Elma Head", "Carey Barr", "Blackburn Dotson", "Sheree Anthony"]
+
+console.log('С Новым Годом! 🎉 Пусть наступающий год принесет вам радость, успехи и много интересных моментов!');
