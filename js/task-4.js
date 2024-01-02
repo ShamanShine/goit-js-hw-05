@@ -7,7 +7,7 @@ const getTotalBalanceByGender = (users, gender) => {
   // используем цепочки методов
 };
 
-const allUsers = [
+const allPeople = [
   {
     name: "Moore Hensley",
     gender: "male",
